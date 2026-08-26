@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Taller2.Ejercicio1;
 public class Producto {
     // Atributos
     String nombre;
